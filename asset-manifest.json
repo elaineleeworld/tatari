@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tatari/static/css/main.4a6bf85f.chunk.css",
+    "main.js": "/tatari/static/js/main.6ce815ae.chunk.js",
+    "main.js.map": "/tatari/static/js/main.6ce815ae.chunk.js.map",
+    "runtime~main.js": "/tatari/static/js/runtime~main.09c043c1.js",
+    "runtime~main.js.map": "/tatari/static/js/runtime~main.09c043c1.js.map",
+    "static/js/2.6907acd1.chunk.js": "/tatari/static/js/2.6907acd1.chunk.js",
+    "static/js/2.6907acd1.chunk.js.map": "/tatari/static/js/2.6907acd1.chunk.js.map",
+    "index.html": "/tatari/index.html",
+    "precache-manifest.202976c0b7862fb79aa7b42b15acbb8c.js": "/tatari/precache-manifest.202976c0b7862fb79aa7b42b15acbb8c.js",
+    "service-worker.js": "/tatari/service-worker.js",
+    "static/css/main.4a6bf85f.chunk.css.map": "/tatari/static/css/main.4a6bf85f.chunk.css.map",
+    "static/media/rotations.csv": "/tatari/static/media/rotations.596996bf.csv",
+    "static/media/spots.csv": "/tatari/static/media/spots.8fcdaafb.csv"
+  }
+}
